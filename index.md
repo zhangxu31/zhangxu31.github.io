@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+#投票系统项目需求
+##一、引言
+###1.1 项目背景
+>近日，某外企技术部门开发小组，为了完成部门KPI考核，提出了一个投票系统的项目需求，并完成了该系统的beta版开发。本着认真负责的态度，本小组对该版本代码进行了严谨审核，确认存在诸多问题，程序的可扩展性和技术使用都有着不小弊端。经本小组研究决定，对该项目进行重新开发。
 
-You can use the [editor on GitHub](https://github.com/zhangxu31/zhangxu31.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###1.2 项目说明
+* 项目名称：
+* 项目用户：
+* 前端开发人员：梁坤尧，张旭。
+* 后端开发人员：朱天杰。
 
-### Markdown
+##二、项目概述
+###2.1 现状
+###2.2 目标
+###2.3 技术架构
+####2.3.1 前端技术架构
+投票系统前端架构，拟基于vue.js进行搭建。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+目前市面上前端的主流架构有vue,react,angular三种，选择vue的主要原因是（我只会vue）vue上手门槛较低，相比于另外两者较为轻量级，中文说明文档详细，详细对比请参照[对比其他框架](https://cn.vuejs.org/v2/guide/comparison.html)。
+###2.3.2 后端技术架构
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangxu31/zhangxu31.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##三、项目系统设计
+###3.1 前端
+###3.2 后端
